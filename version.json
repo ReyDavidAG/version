@@ -1,14 +1,16 @@
 {
   "ios": {
-    "latestVersion": "4.0.9",
+    "latestVersion": "4.1.0",
     "minVersion": "4.0.0",
     "storeUrl": "itms-apps://apps.apple.com/account",
+    "releaseNotes": "Mejoras de rendimiento y corrección de IOS",
     "forceUpdate": false
   },
   "android": {
-    "latestVersion": "4.0.9",
+    "latestVersion": "4.1.0",
     "minVersion": "4.0.0",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.proan.apprh",
+    "releaseNotes": "Mejoras de rendimiento y corrección de ANDROID",
     "forceUpdate": false
   }
 }
