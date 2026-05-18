@@ -4,7 +4,7 @@
     "minVersion": "4.0.0",
     "storeUrl": "itms-apps://apps.apple.com/account",
     "releaseNotes": "Mejoras de rendimiento y corrección de IOS",
-    "forceUpdate": false
+    "forceUpdate": true
   },
   "android": {
     "latestVersion": "4.1.0",
